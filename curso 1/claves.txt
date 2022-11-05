@@ -1,0 +1,2 @@
+CLAVE : THgKdAf5nBOCZjXjB88zJYkWFGAEKgYCHVb1p5Ey-vcW
+URL : https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/8f1b8c11-65cd-4203-9e6d-3677742477d4
